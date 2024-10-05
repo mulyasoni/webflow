@@ -1,0 +1,16 @@
+@media only sreen and (max-width:700px){
+
+.first-con{
+    border: 2px solid red !important;
+}
+
+.main-fc{
+    border: 2px solid green !important;
+}
+
+.second-con{
+    height: 1200px;
+    border: 2px solid red !important;
+}
+    
+}
